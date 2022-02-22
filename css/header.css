@@ -1,0 +1,59 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    font-size: 16px;
+    list-style: none;
+    font-family: cursive;
+}
+
+body
+{
+    background-color: rgb(224, 244, 255);
+}
+
+header
+{
+    width: 100%;
+    height: 130px;
+    background: #555;
+}
+
+header ul
+{
+    padding: 5px;
+    float: left;
+}
+
+header ul li
+{
+    float: left;
+}
+
+header ul li .h2_title_h
+{
+    font-weight: 1;
+    font-family: 'Fredoka One', cursive;
+    line-height: 1;
+    color: #fff;
+    padding: 30px 20px;
+    font-size: 3em;
+}
+
+header ul li img
+{
+    border: solid 2px #222;
+    width: 120px;
+    border-radius: 20px;
+    box-sizing: border-box;
+}
+
+header ul li p
+{
+    font-family: cursive;
+    position: relative;
+    font-size: 0.6em;
+    color: #999;
+    top: 85px;
+    left: -150px;
+}
